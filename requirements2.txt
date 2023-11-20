@@ -3,3 +3,6 @@ numpy
 flask
 joblib
 scikit-learn
+keras
+tensorflow
+
